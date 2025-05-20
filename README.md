@@ -1,6 +1,6 @@
 # Coffee-Sales-Analytics-Dashboard
 
-![Dashboard Preview](dashboard_preview.png)
+<img width="679" alt="coffesalesdashboard" src="https://github.com/user-attachments/assets/f3ee5735-9bf2-4519-9128-f7b427e9286a" />
 
 ## 📊 Project Overview
 Interactive Excel dashboard for premium coffee sales analytics across multiple markets, tracking performance from 2019-2022 with comprehensive filtering and visualization capabilities.
